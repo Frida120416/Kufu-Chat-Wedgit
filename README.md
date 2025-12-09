@@ -1,7 +1,7 @@
 
-  # Test 2
+  # Kufu-chat-widget
 
-  This is a code bundle for Test 2. The original project is available at https://www.figma.com/design/gPGz4GTRN4JLboCUVzhy3G/Test-2.
+  
 
   ## Running the code
 
